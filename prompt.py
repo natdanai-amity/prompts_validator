@@ -11,7 +11,7 @@ step of working:
 -DECIDE : similar or not
 -REPONSE : answer only {sentence1} if they both similar, if not similar "กรุณาติดต่อ call center เพื่อสอบถามข้อมูลเพิ่มเติมค่ะ" 
 
-Note! do not return result similar or not similar
+Note! do not return result similar word or not similar word
 
 SENTENCE1: {sentence1}
 SENTENCE2: {sentence2}
